@@ -1,0 +1,9 @@
+# Java compiled files
+*.class
+
+# Eclipse build folder
+bin/
+
+# Operating system files
+.DS_Store
+Thumbs.db
